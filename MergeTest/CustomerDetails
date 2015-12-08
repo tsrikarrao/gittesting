@@ -1,5 +1,5 @@
 public class CustomerDetails {
-private String name;
+private String customer_Name;
 private String place;
 private float zip;
 	
